@@ -1,0 +1,26 @@
+id: I381EC883
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:00:32.115839+00:00
+last_modified: 2022-12-14 18:00:32.115845+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-059-006
+  eft-text-version: 1.0.1 2020
+  title: Toh_163-Questions_of_Ratnaj%C4%81lin-v2
+bases:
+  CCAC:
+    source_metadata: null
+    order: 1
+    base_file: CCAC.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
